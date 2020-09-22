@@ -4,3 +4,6 @@ In this project we will dealing with a way to optimize the warehouse location Pr
 #Deployed Link: https://aiproject.shinyapps.io/Aiproject/ 
 
 #Reference : https://dirkschumacher.github.io/ompr/articles/problem-warehouse-location.html
+
+Website View
+![image](https://user-images.githubusercontent.com/38341037/93873901-2321f500-fcf0-11ea-97df-1e8d0ab46468.png)
